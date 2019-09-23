@@ -1,0 +1,50 @@
+paladin="Exstacey"
+level=74
+race=human
+region=us
+server=staghelm
+role=attack
+professions=blacksmithing=1/mining=2
+talents=1313000
+spec=retribution
+
+head=,id=35670,bonus_id=4123,drop_level=73,context=1
+neck=,id=113688,bonus_id=4242/33,drop_level=67,context=1
+shoulder=,id=122355,bonus_id=582
+back=,id=134587,bonus_id=1723/1705,drop_level=68,context=7
+chest=,id=122381,enchant_id=908,bonus_id=583
+shirt=,id=11840,context=1
+tabard=,id=45574,context=14
+wrist=,id=36330,bonus_id=1706/3840,drop_level=67,context=28
+hands=,id=113692,bonus_id=4242/37,drop_level=69,context=1
+waist=,id=112361,bonus_id=4242/27,drop_level=72,context=1
+legs=,id=157579,bonus_id=4117,drop_level=73,context=1
+feet=,id=37484,bonus_id=3685,drop_level=74,context=11
+finger1=,id=37524,bonus_id=3685,drop_level=74,context=11
+finger2=,id=35661,bonus_id=4113,drop_level=62,context=1
+trinket1=,id=38213,bonus_id=3685,drop_level=74,context=11
+trinket2=,id=122371,bonus_id=582
+main_hand=,id=35576,bonus_id=4139,drop_level=70,context=1
+
+### Gear from Bags
+#
+# Synthebrew Goggles (10)
+# head=,id=46735
+#
+# Tabard of the Explorer (1)
+# tabard=,id=43348
+#
+# Gnomeregan Tabard (1)
+# tabard=,id=45578,context=14
+#
+# Ironforge Tabard (1)
+# tabard=,id=45577,context=14
+#
+# Blacksmith Hammer (1)
+# main_hand=,id=5956,context=14
+#
+# Mining Pick (4)
+# main_hand=,id=2901,context=14
+#
+# Fishing Pole (1)
+# main_hand=,id=6256,context=14
